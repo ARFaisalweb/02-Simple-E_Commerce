@@ -1,0 +1,126 @@
+body {
+  background-color: #fcf9f1;
+  font-family: "Bebas Neue", cursive;
+}
+.logo {
+  width: 350px;
+}
+.header-nav {
+  margin-left: auto;
+  font-weight: 750;
+}
+.purchase-button {
+  width: 120px;
+  background-color: rgb(87, 141, 63);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.purchase-button:hover {
+  box-shadow: 0 0 10px gray;
+}
+.header-nav-link {
+  color: #302e2e !important;
+  font-size: 18px;
+}
+
+.main-title,
+.main-title2 {
+  text-transform: uppercase;
+  font-size: 85px;
+}
+.main-title {
+  color: #f3b748;
+}
+.main-title2 {
+  color: #333658;
+}
+.header-text {
+  color: #333658;
+  line-height: 26px;
+}
+.profile-img img {
+  width: 85%;
+}
+.product-title {
+  color: #333658;
+  font-size: 40px;
+  margin-top: 80px;
+}
+.product {
+  border: none;
+  box-shadow: 0 0 10px gray;
+  border-radius: 10px;
+  width: 95%;
+}
+.product:hover {
+  box-shadow: 0 0 20px gray;
+}
+.product h5 {
+  font-size: 20px;
+  color: #333658;
+  font-weight: 700;
+}
+.card-descreption {
+  color: #333658;
+  font-size: 15px;
+}
+.price {
+  font-size: 40px;
+  color: rgb(255, 206, 71);
+  font-weight: bold;
+}
+
+.product-img-div {
+  background-color: white;
+  border-radius: 15px;
+  width: 90%;
+  height: 70;
+  padding: 10px;
+  margin: 15px auto;
+}
+.product-img-div:hover {
+  box-shadow: 0 0 15px whitesmoke;
+}
+.product-img {
+  width: 100%;
+  height: 280px;
+  padding: 15px;
+}
+
+.policy-img {
+  width: 70px;
+}
+
+.policy-title {
+  font-size: 28px;
+  color: #333658;
+  font-weight: 700;
+}
+.policy-description {
+  font-size: 17px;
+}
+
+#testimonial-section {
+  padding: 40px 10%;
+}
+#testimonial-head {
+  font-size: 35px;
+  text-align: center;
+  color: #333658;
+}
+.testimonial {
+  text-align: center;
+  width: 90%;
+  margin: 4%;
+  padding: 15px;
+  color: #444343;
+  box-shadow: 0 0 5px #444343;
+  border-radius: 10px;
+}
+.testimonial:hover {
+  box-shadow: 0 0 10px #444343;
+}
